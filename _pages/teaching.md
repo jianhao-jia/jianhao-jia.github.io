@@ -7,10 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-## Discrete Math
+### Discrete Math
 
   Year:2024
   
-## Discrete Math
+### Discrete Math
   
   Year:2022
