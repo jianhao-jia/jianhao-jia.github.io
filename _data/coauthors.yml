@@ -1,7 +1,11 @@
 "gravin":
   - firstname: ["Nick", "Nikolai"]
     url: https://ngravin.github.io
-    
+
+"tang":
+  - firstname: ["Zhihao", "Zhihao Gavin"]
+    url: http://zhihaotang.com/index.html
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
