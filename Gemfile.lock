@@ -183,7 +183,7 @@ GEM
 
 PLATFORMS
   aarch64-linux-gnu
-  bundle lock --add-platform x86_64-linux
+  x86_64-linux
 
 DEPENDENCIES
   classifier-reborn
