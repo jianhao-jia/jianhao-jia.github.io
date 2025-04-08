@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>No.777 Guoding Road</p>
     <p>Shanghai, China</p>
-    <p>jianhao.jia(at)outlook.com</p>
+    <p>jianhao.jia(at)stu.sufe.edu.cn</p>
 
 
 news: false # includes a list of news items
