@@ -2,15 +2,15 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses in which I participated as a TA
+description: Courses I TA’d
 nav: true
 nav_order: 3
 ---
 
 ### Discrete Math
 
+  Year:2022,2024,2025
+
+### Online Decision Making
+
   Year:2024
-
-### Discrete Math
-
-  Year:2022
