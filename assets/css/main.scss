@@ -23,3 +23,21 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+/* ===== Service page ===== */
+.service-cards .card {
+  border-radius: 16px;
+}
+
+.service-list .list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.service-years .badge {
+  margin-left: .35rem;
+  font-weight: 500;
+}
