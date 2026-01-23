@@ -7,21 +7,64 @@ nav: true
 nav_order: 3
 ---
 
-## Teaching (TA)
+<div class="row g-4 service-cards">
 
-### Discrete Math
-- **Years:** 2022, 2024, 2025
+  <div class="col-12 col-lg-6">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <h2 class="card-title h4 mb-3">Teaching (TA)</h2>
 
-### Online Decision Making
-- **Year:** 2024
+        <ul class="list-group list-group-flush service-list">
+          <li class="list-group-item">
+            <span class="fw-semibold">Discrete Math</span>
+            <span class="service-years">
+              <span class="badge rounded-pill text-bg-light">2022</span>
+              <span class="badge rounded-pill text-bg-light">2024</span>
+              <span class="badge rounded-pill text-bg-light">2025</span>
+            </span>
+          </li>
 
-## Professional Service
+          <li class="list-group-item">
+            <span class="fw-semibold">Online Decision Making</span>
+            <span class="service-years">
+              <span class="badge rounded-pill text-bg-light">2024</span>
+            </span>
+          </li>
+        </ul>
 
-### Reviewer
-- **MOR**
-- **TCS**
-- **AAMAS**
-- **SODA**
+      </div>
+    </div>
+  </div>
 
-### Program Committee
-- **EC 2026**
+  <div class="col-12 col-lg-6">
+    <div class="card h-100 shadow-sm">
+      <div class="card-body">
+        <h2 class="card-title h4 mb-3">Professional Service</h2>
+
+        <div class="mb-3">
+          <div class="text-uppercase small text-muted fw-semibold mb-2">Reviewer</div>
+          <ul class="list-group list-group-flush service-list">
+            <li class="list-group-item"><span class="fw-semibold">MOR</span></li>
+            <li class="list-group-item"><span class="fw-semibold">TCS</span></li>
+            <li class="list-group-item"><span class="fw-semibold">AAMAS</span></li>
+            <li class="list-group-item"><span class="fw-semibold">SODA</span></li>
+          </ul>
+        </div>
+
+        <div>
+          <div class="text-uppercase small text-muted fw-semibold mb-2">Program Committee</div>
+          <ul class="list-group list-group-flush service-list">
+            <li class="list-group-item">
+              <span class="fw-semibold">EC</span>
+              <span class="service-years">
+                <span class="badge rounded-pill text-bg-light">2026</span>
+              </span>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</div>
