@@ -27,7 +27,7 @@ nav_order: 3
           <li class="list-group-item">
             <span class="fw-semibold">Online Decision Making</span>
             <span class="service-years">
-              <span class="badge rounded-pill text-bg-light">2024</span>
+              <span class="year-badge">2024</span>
             </span>
           </li>
         </ul>
@@ -57,7 +57,7 @@ nav_order: 3
             <li class="list-group-item">
               <span class="fw-semibold">EC</span>
               <span class="service-years">
-                <span class="badge rounded-pill text-bg-light">2026</span>
+                <span class="year-badge">2026</span>
               </span>
             </li>
           </ul>
