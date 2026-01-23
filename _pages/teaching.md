@@ -18,9 +18,9 @@ nav_order: 3
           <li class="list-group-item">
             <span class="fw-semibold">Discrete Math</span>
             <span class="service-years">
-              <span class="badge rounded-pill text-bg-light">2022</span>
-              <span class="badge rounded-pill text-bg-light">2024</span>
-              <span class="badge rounded-pill text-bg-light">2025</span>
+              <span class="year-badge">2022</span>
+              <span class="year-badge">2024</span>
+              <span class="year-badge">2025</span>
             </span>
           </li>
 
